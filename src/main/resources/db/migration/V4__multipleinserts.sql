@@ -1,0 +1,3 @@
+INSERT INTO USERS(email,user_id,user_name,mobile,pwd,gender,age) VALUES('aprathbbima@gmail.com','3','prathhhimaaa','9791109090','bprthima','female','19');
+INSERT INTO USERS(email,user_id,user_name,mobile,pwd,gender,age) VALUES('aprath99bbima@gmail.com','4','nnprathhhimaaa','97911078890','bprthi6ma','female','19');
+INSERT INTO USERS(email,user_id,user_name,mobile,pwd,gender,age) VALUES('apra7thbbima@gmail.com','5','bprathhhimaaa','9755109090','bprt0hima','female','19');

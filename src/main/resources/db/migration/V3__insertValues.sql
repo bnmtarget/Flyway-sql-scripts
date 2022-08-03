@@ -1,0 +1,1 @@
+INSERT INTO USERS(email,user_id,user_name,mobile,pwd,gender,age) VALUES('prathbbima@gmail.com','2','prathimaaa','9790909090','bprthima','female','19');
